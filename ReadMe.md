@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de ADS<br>👯 Estou a procura de estágio<br>🌱 Estudando Java Script, TypeScript, SQL.<br>⚡ Sou da área da saúde migrando de carreira.
+🔭 Sou estudante de ADS<br>👯 Estou a procura de estágio<br>🌱 Estudando Python, BI, SQL.<br>⚡ Sou da área da saúde migrando de carreira.
 
 
 ## 🌐 Socials:
