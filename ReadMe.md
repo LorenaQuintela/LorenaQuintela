@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Graduada em ADS<br>👯 Estou em busca da minha vaga Jr ou Trainee. r<br>🌱 Aprendendo Backend com Python.<br>⚡ Saindo da área da saúde migrando de carreira.
+🔭 Graduada em ADS<br>👯 Estou em busca da minha vaga Jr ou Trainee.<br>🌱 Aprendendo Backend com Python.<br>⚡ Saindo da área da saúde migrando de carreira.
 
 
 ## 🌐 Socials:
