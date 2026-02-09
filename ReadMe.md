@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de ADS<br>👯 Estou a procura de estágio<br>🌱 Estudando Python, BI, SQL.<br>⚡ Sou da área da saúde migrando de carreira.
+🔭 Graduada em ADS<br>👯 Estou em busca da minha vaga Jr ou Trainee. r<br>🌱 Aprendendo Backend com Python.<br>⚡ Saindo da área da saúde migrando de carreira.
 
 
 ## 🌐 Socials:
