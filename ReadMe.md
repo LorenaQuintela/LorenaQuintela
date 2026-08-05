@@ -1,3 +1,4 @@
+## Oi!! Eu sou a Lorena 👋
 # 💫 About Me:
 🔭 Graduada em ADS<br>👯 Estou em busca da minha vaga Jr ou Trainee.<br>🌱 Aprendendo Backend com Python.<br>⚡ Migrando de carreira.
 
